@@ -9,3 +9,6 @@ Temiz ve okunabilen kod yazarak becerilerimi geliştirmeyi ve profesyonel bir Fr
 👉 Aşağıdaki sosyal medya hesaplarımdan bana istediğiniz zaman ulaşabilirsiniz.
 
 👉 meryemkurt824@gmail.com 👉 https://www.linkedin.com/in/meryemgkurt
+
+![image](https://user-images.githubusercontent.com/120281115/232627664-06ee3f04-a2af-4ead-9038-51120fe839b9.png)
+
