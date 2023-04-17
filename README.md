@@ -10,20 +10,5 @@ Temiz ve okunabilen kod yazarak becerilerimi geliştirmeyi ve profesyonel bir Fr
 
 👉 meryemkurt824@gmail.com 👉 https://www.linkedin.com/in/meryemgkurt
 
-HTML
-HTML5	CSS3
-CSS3	JavaScript
-JavaScript	TypeScript
-TypeScript	React
-React	Angular
-Angular	Bootstrap
-Bootstrap
-Sass/Scss
-Sass/Scss	styled-components
-styled components	Visual Studio Code
-VS Code	Git
-Git	Npm
-Npm	Webpack
-Webpack	Jest
-Jest
+
 
