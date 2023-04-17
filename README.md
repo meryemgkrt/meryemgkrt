@@ -10,9 +10,6 @@ Temiz ve okunabilen kod yazarak becerilerimi geliştirmeyi ve profesyonel bir Fr
 
 👉 meryemkurt824@gmail.com 👉 https://www.linkedin.com/in/meryemgkurt
 
-![232627039-7fc11ffc-39e3-49d7-bc8c-b534e751e7c0](https://user-images.githubusercontent.com/120281115/232628947-11748052-fd79-456c-a723-47f2abffc1a6.png)
-![download](https://user-images.githubusercontent.com/120281115/232628988-521babf3-fb31-4505-ab52-5d9a490b8a5c.jpeg)
-![download (6)](https://user-images.githubusercontent.com/120281115/232629060-e8de9471-2954-46ab-902d-274d971038e3.png)
 
 
 
