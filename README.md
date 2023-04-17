@@ -20,7 +20,7 @@ Temiz ve okunabilen kod yazarak becerilerimi geliştirmeyi ve profesyonel bir Fr
 ![image](https://user-images.githubusercontent.com/120281115/232628781-1206b597-e15b-46d6-babe-d00ca7db45b4.png)
 ![image](https://user-images.githubusercontent.com/120281115/232630006-7e4ed57d-85b1-4653-af2f-646814b5f57a.png)
 ![download (5)](https://user-images.githubusercontent.com/120281115/232629124-2d551c77-a0f6-455c-9bc6-094de08f5311.png)
-![image](https://user-images.githubusercontent.com/120281115/232633674-726233a6-da45-4ae8-9221-8269cce0786d.png)
+
 
 
 
